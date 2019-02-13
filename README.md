@@ -1,8 +1,10 @@
-# petalsaroundtherose
+# Petals Around the Rose
 The name of the game is Petals Around the Rose, and that name is significant.
 Every answer is zero or an even number.
 
-### usage
+Inspired by [Bill Gates and Petals Around the Rose](http://www.borrett.id.au/computing/petals-bg.htm)
+
+### Usage:
 1. Run from the command line, from the directory where the petals.py file is saved:  `python3 petals.py`
 2. Follow the prompts on screen
 
